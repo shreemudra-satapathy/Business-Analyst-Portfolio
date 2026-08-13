@@ -1,148 +1,114 @@
-Business Analyst Portfolio 
+# Business Analyst Portfolio
 
-About Me 
+## About Me
 
-I am a Business Analyst with 12 years of experience in IT, working with global teams and stakeholders across the US, UK, and Europe. 
+I am a Business Analyst with 12 years of experience in IT, working with global teams and stakeholders across the US, UK, and Europe.
 
-My experience includes understanding business needs, gathering and analyzing requirements, documenting functional and non-functional requirements, creating user stories and acceptance criteria, mapping business processes, supporting UAT, and working closely with development and QA teams throughout the delivery lifecycle. 
+My experience includes understanding business needs, gathering and analyzing requirements, documenting business and functional requirements, creating user stories and acceptance criteria, mapping business processes, supporting UAT, and working closely with development and QA teams throughout the delivery lifecycle.
 
-I have worked across domains including Healthcare, Insurance, Banking & Financial Services, and Utilities. 
+I have worked across domains including **Healthcare, Insurance, Banking & Financial Services, and Utilities**.
 
-I am currently focused on Senior Business Analyst opportunities, where I can use my experience in requirements analysis, stakeholder management, process improvement, and Agile delivery. 
+I am currently focused on **Senior Business Analyst opportunities**, where I can use my experience in requirements analysis, stakeholder management, process improvement, and Agile delivery.
 
- 
+---
 
-Core Business Analysis Skills 
+## Core Business Analysis Skills
 
-Requirement Elicitation & Analysis 
+- Requirement Elicitation & Analysis
+- Stakeholder Management
+- Business & Functional Requirements
+- BRD / FRD Documentation
+- User Stories & Acceptance Criteria
+- Process Mapping & Process Flows
+- Requirements Traceability Matrix (RTM)
+- UAT & Test Scenario Support
+- Change & Impact Analysis
+- Agile / Scrum
+- Backlog Refinement
+- Sprint Planning & Collaboration
+- Business Process Improvement
 
-Stakeholder Management 
+---
 
-Business & Functional Requirements 
+## Portfolio Projects
 
-BRD / FRD Documentation 
+### Healthcare — Hospital Appointment & Patient Management System
 
-User Stories & Acceptance Criteria 
+A Business Analysis case study for a digital healthcare platform designed to improve the appointment booking and patient management process.
 
-Process Mapping & Process Flows 
+**Key BA Deliverables:**
 
-Requirements Traceability Matrix (RTM) 
+- Business Requirements Document (BRD)
+- Functional & Non-Functional Requirements
+- Stakeholder Analysis
+- User Stories
+- Acceptance Criteria
+- Process Flows
+- Requirements Traceability Matrix (RTM)
+- UAT Scenarios
+- Wireframes
+- Business Analysis Case Study
 
-UAT & Test Scenario Support 
+👉 [View Healthcare Project](./Healthcare)
 
-Change & Impact Analysis 
+---
 
-Agile / Scrum 
+### Insurance — Digital Insurance Platform
 
-Backlog Refinement 
+A Business Analysis case study focused on improving the digital insurance customer journey, including policy-related processes and interactions between customers and internal teams.
 
-Sprint Planning & Collaboration 
+**Key BA Deliverables:**
 
-Business Process Improvement 
+- Business Requirements Document (BRD)
+- Functional & Non-Functional Requirements
+- Stakeholder Analysis
+- User Stories
+- Acceptance Criteria
+- Process Flows
+- Requirements Traceability Matrix (RTM)
+- UAT Scenarios
+- Business Analysis Case Study
 
- 
+👉 [View Insurance Project](./Insurance)
 
-Portfolio Projects 
+---
 
-🏥 Healthcare — Hospital Appointment & Patient Management System 
+## BA Tools & Technologies
 
-A Business Analysis case study for a digital healthcare platform designed to improve the appointment booking and patient management process. 
+**Business Analysis:**  
+Jira | Confluence | MS Excel | Figma | Process Mapping
 
-Key BA Deliverables: 
+**Documentation:**  
+BRD | FRD | User Stories | Acceptance Criteria | RTM | UAT
 
-Business Requirements Document (BRD) 
+**Delivery:**  
+Agile | Scrum | SDLC | Stakeholder Collaboration
 
-Functional & Non-Functional Requirements 
+---
 
-Stakeholder Analysis 
+## Domains
 
-User Stories 
+- Healthcare
+- Insurance
+- Banking & Financial Services
+- Utilities
 
-Acceptance Criteria 
+---
 
-Process Flows 
+## What You Will Find in This Portfolio
 
-Requirements Traceability Matrix (RTM) 
+This repository demonstrates my approach to Business Analysis, from understanding the business problem and stakeholder needs through requirements gathering, documentation, process analysis, delivery support, and UAT.
 
-UAT Scenarios 
+The projects in this repository are **portfolio case studies created to demonstrate my Business Analysis approach, problem-solving skills, and documentation capabilities**.
 
-Wireframes 
+---
 
-Business Analysis Case Study 
+## Connect With Me
 
-👉 View Healthcare Project 
+**LinkedIn:** https://www.linkedin.com/in/shreesatapathy/
 
- 
+**Email:** smtryingcode@gmail.com
 
-🛡️ Insurance — Digital Insurance Platform 
+---
 
-A Business Analysis case study focused on improving the digital insurance customer journey, including policy-related processes and interactions between customers and internal teams. 
-
-Key BA Deliverables: 
-
-Business Requirements 
-
-Functional Requirements 
-
-Non-Functional Requirements 
-
-User Stories 
-
-Acceptance Criteria 
-
-Process Flows 
-
-Requirements Traceability Matrix (RTM) 
-
-UAT Scenarios 
-
-Business Analysis Case Study 
-
-👉 View Insurance Project 
-
- 
-
-BA Tools & Technologies 
-
-Business Analysis: 
-Jira | Confluence | MS Excel | Figma | Visio / Process Mapping 
-
-Documentation: 
-BRD | FRD | User Stories | Acceptance Criteria | RTM | UAT 
-
-Delivery: 
-Agile | Scrum | SDLC | Stakeholder Collaboration 
-
- 
-
-Domains 
-
-Healthcare 
-
-Insurance 
-
-Banking & Financial Services 
-
-Utilities 
-
- 
-
-What You Will Find in This Portfolio 
-
-This repository demonstrates how I approach a Business Analysis assignment from understanding the business problem through requirements, documentation, process analysis, delivery support, and UAT. 
-
-The projects are portfolio case studies created to demonstrate my Business Analysis approach and documentation skills. 
-
- 
-
-Connect With Me 
-
-LinkedIn: https://www.linkedin.com/in/shreesatapathy/ 
-
-Email: smtryingcode@gmail.com 
-
- 
-
-Thank you for visiting my Business Analyst portfolio. 
-
- 
+Thank you for visiting my Business Analyst portfolio.
