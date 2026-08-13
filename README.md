@@ -49,7 +49,7 @@ A Business Analysis case study for a digital healthcare platform designed to imp
 - Wireframes
 - Business Analysis Case Study
 
-👉 [View Healthcare Project](./Healthcare)
+👉 [View Healthcare Project](./Healthcare-Appointment-Patient-Management)
 
 ---
 
